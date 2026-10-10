@@ -46,7 +46,14 @@
 
 ## 📊 GitHub Activity
 
-I use GitHub to document my learning journey, practise programming, and share projects as I develop my technical skills.
+## 📊 GitHub Activity & Metrics
+
+- 💻 **Repositories:** Building my programming projects and practice exercises.
+- 📝 **Commits:** Tracking my progress as I learn to code.
+- 🌱 **Contributions:** Growing my GitHub activity through regular practice.
+- 🚀 **Goal:** Continuously improve my coding skills and build meaningful projects.
+
+*My GitHub statistics will grow as I continue learning, practising, and creating projects.*
 
 ## 📬 Connect With Me
 
